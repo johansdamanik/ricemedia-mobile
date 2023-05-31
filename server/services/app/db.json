@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "12345",
+      "role": "admin",
+      "phoneNumber": "08123s",
+      "address": "Jl. Meranti"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Kenalan Sama Cewek yang Siap Taklukkan Dunia Muay Thai di Thailand",
+      "slug": "kenalan-sama-cewek-yang-siap-taklukkan-dunia-muay-thai-di-thailand",
+      "content": "Bulir peluh membasahi pelipis Porntip “Cha” Khamthongphanow kala ia melepaskan serangan tajam kepada lawan. Kalah dua putaran tak menciutkan semangatnya untuk menang pada ronde keempat. \nKetegangan semakin terasa menyelimuti seisi Stadion Rajadamnern, stadion kickboxing tertua di Thailand, saat ia menyikut dahi lawan hingga bersimbah darah. Wasit seketika menyerukan waktu istirahat, pertanda babak itu telah berakhir.",
+      "imgUrl": "https://video-images.vice.com/articles/6453199a18f2182938c3e651/lede/1683167647869-12-khlong-toei-taking-a-break-in-the-ring-between-training-fights.jpeg",
+      "categoryId": 1
+    },
+    {
+      "title": "Jokowi Akui Ada 12 Pelanggaran HAM Berat di Indonesia, dari Tragedi 65 hingga Trisakti",
+      "slug": "jokowi-akui-ada-12-pelanggaran-ham-berat-di-indonesia-dari-tragedi-65-hingga-trisakti",
+      "content": "Presiden Joko Widodo, melalui pernyataan yang terhitung bersejarah, mengakui ada 12 peristiwa Hak Asasi Manusia (HAM) berat yang pernah terjadi di masa lalu Republik Indonesia. Berbagai kasus itu tak pernah mendapat penyelesaian hukum sampai saat ini. Pengakuan ini dia sampaikan setelah menerima laporan dari Tim Penyelesaian Non-Yudisial Pelanggaran Hak Asasi Manusia (PPHAM) di Istana Negara Jakarta, pada 11 Januari 2023.",
+      "imgUrl": "https://video-images.vice.com/articles/63be8b65af488f6f8500808e/lede/1673432303883-gettyimages-1449134688.jpeg",
+      "categoryId": 2
+    },
+    {
+      "title": "Konsul Gratis Pakai Chatbot, Bahaya Gak Sih?",
+      "slug": "konsul-gratis-pakai-chatbot-bahaya-gak-sih",
+      "content": "Sekitar Februari lalu, Dan menjajal kehebatan ChatGPT yang ramai dibicarakan. Lelaki 37 tahun asal Amerika Serikat itu menggunakan chatbot untuk mengarang cerita fiksi. Awalnya ia sebatas mengakui kecanggihan teknologi yang dikembangkan OpenAI dalam dunia tulis-menulis.",
+      "imgUrl": "https://video-images.vice.com/articles/644985d7fbcebc1a38e255e2/lede/1682542800220-gettyimages-961346150.jpeg",
+      "categoryId": 1
+    },
+    {
+      "title": "Perppu Cipta Kerja Bakal Digugat, Pesangon Lebih Kecil hingga Kontrak Tak Dibatasi",
+      "slug": "perppu-cipta-kerja-bakal-digugat-pesangon-lebih-kecil-hingga-kontrak-tak-dibatasi",
+      "content": "Pemerintah menerbitkan Peraturan Pemerintah Pengganti UU Nomor 2 tahun 2022, pada 30 Desember lalu. Beleid itu dijuluki Perppu Cipta Kerja, dan telah diteken Presiden Joko Widodo. Salah satu pasal yang disorot negatif dari perppu itu terkait potensi penghilangan libur dua hari dalam sepekan. Aturan kontroversial ini tertuang dalam pasal 79 ayat 2 huruf b. Pasal tersebut menjabarkan dua jenis istirahat. Pertama istirahat antara jam kerja minimal setengah jam setelah bekerja selama 4 jam secara terus-menerus. Waktu istirahat ini bukan termasuk dalam jam kerja.",
+      "imgUrl": "https://video-images.vice.com/articles/63b2b4b3c56ad79089d7c032/lede/1672656946941-gettyimages-1229679861.jpeg",
+      "categoryId": 2
+    },
+    {
+      "title": "Ilmuwan Sukses Memperlambat Penuaan Sel",
+      "slug": "ilmuwan-sukses-memperlambat-penuaan-sel",
+      "content": "Segala sesuatu yang hidup di dunia ini pasti akan menua hingga tak lagi bernyawa. Namun, banyak sekali manusia yang terobsesi awet muda. Beragam penelitian telah dilaksanakan supaya kita dapat hidup panjang.",
+      "imgUrl": "https://video-images.vice.com/articles/644ac50618f2182938c2ca6c/lede/1682621782600-gettyimages-1155265846.jpeg",
+      "categoryId": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Peristiwa Terkini"
+    },
+    {
+      "name": "Politik"
+    },
+    {
+      "name": "Sains"
+    },
+    {
+      "name": "Musik"
+    },
+    {
+      "name": "Lingkungan"
+    }
+  ],
+  "tags": [
+    {
+      "postId": 1,
+      "name": "boxing"
+    },
+    {
+      "postId": 2,
+      "name": "jokowi"
+    },
+    {
+      "postId": 2,
+      "name": "pelanggaran ham"
+    },
+    {
+      "postId": 3,
+      "name": "konsultasi"
+    },
+    {
+      "postId": 4,
+      "name": "perppu"
+    },
+    {
+      "postId": 5,
+      "name": "ilmuwan"
+    }
+  ]
+}
